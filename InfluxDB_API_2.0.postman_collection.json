@@ -1,7 +1,7 @@
 {
 	"info": {
 		"_postman_id": "8dbb3787-d3e2-444b-98a7-d6edb794f015",
-		"name": "InfluxDB API",
+		"name": "InfluxDB_API_2.0",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
 	},
 	"item": [
