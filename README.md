@@ -1,5 +1,5 @@
 # Postman: InfluxDB API
-The Postman InfluxDB project has been created to help you learn and experiment with the InfluxDB v2.0 API.  For an introduction to Postman and how we have used it, check out this [blog](insert_here)!
+The Postman InfluxDB project has been created to help you learn and experiment with the InfluxDB v2.0 API.  For an introduction to Postman and how we have used it, check out this [blog](https://www.influxdata.com/blog/getting-started-influxdb-2-0-api-postman/)!
 ![postman](images/post_man_main.png)
 
 
